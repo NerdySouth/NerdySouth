@@ -8,6 +8,9 @@ Nox and Zoot, two bare metal projects for ARMv8-A, currently supporting the Pine
 
 Outside of tech, I enjoy spending time with my two dogs, watching anime, and being out in nature.
 
+🔭 I’m currently working on Zoot, which i envision to be a type 1 hypervisor for the ARM architecture to enable more people to take advantage of ARM based SBC (Small Board Computers) for things like home media servers, home network storage solutions, self-hosted private communications, and more. I want Zoot to turn any ARM SBC into a secure and capable board for running all sorts of systems like KVM based instances, to plain old linux. I also just want to learn a lot more about the design and implementation of a type 1 hypervisor, the ARM arch, and Zig. 
+bare metal development.
+
 Here are some cool links I found:
 <ul>
   <li><a href="https://tristen.wtf">Personal site</a></li>
