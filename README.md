@@ -1,6 +1,6 @@
 # Hi There!
 
-# My name is Tristen
+### My name is Tristen
 <!--
 **TristenSeth/TristenSeth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
