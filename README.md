@@ -1,10 +1,9 @@
 # Hi There!
 
 My name is Tristen (Any/All), and I am a Masters student in Computer Science at Stanford University with a focus in systems and security. I also studied Computer Science for my Bachelors at Stanford University.
-Most recently, I interned at Gridspace in Los Angeles, and am currently open to internship and part-time positions.
+Right now, I am working within the Robust Systems Group at Stanford as a research assistant.
 
-I am most interested in Operating Systems, Programming Languages, safety and security in systems programming, and FOSS. In my free time I enjoy working on
-bare metal projects for ARMv8-A, and hacking on my personal shell, ferrous.
+I am most interested in Operating Systems, safety and security in systems programming, Computer Architecture, and FOSS. In my free time, I like to tinker with stuff. Recently, that has been my own custom keyboard.
 
 Outside of tech, I enjoy spending time with my two dogs, watching anime, and being out in nature.
 
