@@ -7,7 +7,7 @@ I am most interested in Operating Systems, safety and security in systems progra
 
 Outside of tech, I enjoy spending time with my two dogs, watching anime, and being out in nature.
 
-🔭 I’m currently working on Ferrous, I want to explore how Rust's idioms can be used to provide not only a better shell experience, but do so safely and with ergonomic development for the project.
+🔭 I’m currently working on Keeb, my own keyboard firmware written with Rust for my custom keyboard based around the RP2040 microcontroller.
 
 Here are some cool links I found:
 <ul>
