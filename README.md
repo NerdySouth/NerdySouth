@@ -13,7 +13,6 @@ Outside of tech, I enjoy spending time with my two dogs, watching anime, and bei
 Here are some cool links I found:
 <ul>
   <li><a href="https://tristen.wtf">Personal site</a></li>
-  <li><a href="https://hax.tristen.wtf">Personal blog</a></li>
   <li><a href="https://linkedin.com/in/tristen-nollman">LinkedIn</a></li>
  </ul>
 <!--
